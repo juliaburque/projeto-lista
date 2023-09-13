@@ -28,6 +28,13 @@ Ao acessar o site o usuário será direcionado para a página inicial, lá irá 
 - `Total`: Irá somar o valor total da compra(lista).
 ![image info](vídeo/v%C3%ADdeo.gif)
 
+### Tecnologias utilizadas⌨️
+* HTML
+* ARRAY
+* STYLE
+* GITHUB
 
+## Fontes consultadas
+[gzmael] https://github.com/gzmael/lista-compras
 
 
