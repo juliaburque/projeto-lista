@@ -13,14 +13,14 @@ Com base no exercício feito em sala, com utilização de Array, criamos um sist
 
 ![image info](img/foto.png)
 
-## Descrição 
+## Descrição📝
 O projeto de lista de compras é uma das melhores ferramentas para o usuário, e tem o intuito de ajudar o cliente a buscar e somar suas compras.
 
-## Introdução
+## Introdução❗
 Ferramenta que auxilia o usuário com sua lista de compra.
 O site foi criado para facilitar e ajudar os usuários com sua lista de compras de uma forma prática e fácil.
 
-## Funcionalidade
+## Funcionalidade⚙️
 Ao acessar o site o usuário será direcionado para a página inicial, lá irá aparecer as funções, sendo elas:
  - `Nome do produto`: O usuário terá que colocar o nome do produto desejado.
  - `Valor`: Essa campo será utilizado para adiconar o valor do produto.
