@@ -26,6 +26,6 @@ Ao acessar o site o usuário será direcionado para a página inicial, lá irá 
  - `Valor`: Essa campo será utilizado para adiconar o valor do produto.
  - `Lista`: Caso o usuário queira rever o valor do produto, é só digitar o nome que logo irá aparecer o produto.
 - `Total`: Irá somar o valor total da compra(lista).
-![image info](vídeo/v%C3%ADdeo.gif)
+![image info](video/gif.gif)
 
 
